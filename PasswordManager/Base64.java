@@ -1,16 +1,7 @@
 
 
 /**
- * @(#) Base64.java
- 
- 
- *
  * @author darkkazma@krbcp.com
- * @date   2017. 1. 18.
- * 
- * Create Date : 2005. 7. 12.
- * @author SaYeol Yang, eclips911@arirangsoln.com
- * @author YouBok Choi, lucky911@arirangsoln.com
  */
 public class Base64 {
 	
