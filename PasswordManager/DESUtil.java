@@ -1,10 +1,3 @@
-/**
- * Copyright ⓒ 2017 by (주)한국비씨피솔루션즈. All Rights Reserved.
-   date : 2017. 3. 8.
-   Author : Jonathan Shin
- */
-
-
 import java.security.Key;
 
 import javax.crypto.SecretKeyFactory;
